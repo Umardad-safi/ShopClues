@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(199, 194, 194);
+}
+.icons_size {
+  width: 20px;
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 8px;
+}
+.logo_icon {
+  width: 24px;
+  height: 24px;
+  margin-top: 8px;
+}
+.hero_section {
+  margin: 0 0rem;
+}
+.hero-image {
+  width: 25rem;
+}
+
+.rating-star {
+  width: 20px;
+  height: 20px;
+}
+
+.discount-image {
+  height: 295px;
+}
+
+.cus-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+}
+.necklace-image {
+  height: 16rem;
+}
+.Fashion-image {
+  height: 14rem;
+}
+.short-info-icons {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  padding: 1rem;
+
+  background-color: rgb(245, 199, 99);
+}
+.footer-images {
+  width: 100px;
+  height: 60px;
+}
+
+/* 888888888888888 */
+
+.navbar-search-container {
+  position: relative;
+  width: 100%;
+}
+
+.navbar-search-container i {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  transform: translateY(-50%);
+  color: #aaa;
+  font-size: 1rem;
+}
+
+.navbar-search-container input {
+  padding-left: 40px;
+  /* space for icon before text */
+  border-radius: 50px;
+}
