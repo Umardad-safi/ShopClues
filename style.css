@@ -15,6 +15,9 @@ body {
 .hero_section {
   margin: 0 0rem;
 }
+.hero-image {
+  width: 25rem;
+}
 
 .rating-star {
   width: 20px;
